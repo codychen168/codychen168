@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @codychen168
-- 👀 I’m interested in Web Develpment and coding
-- 🌱 I’m currently learning TypeScript and using ReactJS to build responsive website
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development and Coding
+- 🌱 I’m currently learning TypeScript and using ReactJS to build a responsive website
+- 💞️ I’m looking to collaborate on any projects that needs coding including front end and backend
+- 📫 How to reach me - please email me @ chen.szuyu.cody@gmail.com
 
 <!---
 codychen168/codychen168 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
